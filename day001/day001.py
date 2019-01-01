@@ -59,7 +59,7 @@
 # Python
 
 
-word = 'Python'
+# word = 'Python'
 
 
 # print(word[0])
@@ -388,7 +388,8 @@ word = 'Python'
 #     for kw in keywords:
 #         print(kw, ":", keywords[kw])
 
-# cheeseshop("Limburger", "It's very runny, sir.",
+# cheeseshop("Limburger",
+#            "It's very runny, sir.",
 #            "It's really very, VERY runny, sir.",
 #            shopkeeper="Michael Palin",
 #            client="John Cleese",
